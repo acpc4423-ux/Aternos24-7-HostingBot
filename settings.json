@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AB00.aternos.me",
-    "port": 30755,
+    "ip": "Azemot.aternos.me",
+    "port": 0000,
     "version": "1.21.1",
     "try-creative": false
   },
