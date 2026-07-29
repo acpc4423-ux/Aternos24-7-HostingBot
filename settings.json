@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Azemot.aternos.me",
-    "port": 25565,
+    "port": 40865,
     "version": "26.2",
     "try-creative": false
   },
